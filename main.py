@@ -1,5 +1,10 @@
 # Author: Fransiskus Agapa
 
+# =========================
+# simple program to practice use sort to output item/s in list
+# user may put new data in any order and may decide later whethe to output the data as is or sort it
+# =========================
+
 the_pet = lambda name, color: name + " - " + color
 
 print("\n== Pet Database ==")
